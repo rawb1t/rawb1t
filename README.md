@@ -1,6 +1,6 @@
 I am rawb1t
 
-I do PHP, Java, JavaScript, some C++ and Webdesign Stuff and Frameworks (mostly Vue and jQuery).
+I do PHP, Java, JavaScript, some C++, Webdesign Stuff and Frameworks (mostly Vue and jQuery).
 
 I write code because I can.
 
