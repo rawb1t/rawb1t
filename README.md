@@ -1,10 +1,7 @@
-I am rawb1t
+I am rawb1t.
 
-I do PHP, Python, Java, JavaScript, TypeScript, some C++, Webdesign Stuff and Frameworks (mostly Vue and jQuery).
+I do PHP, Python, Java, JavaScript, TypeScript, some C++.
 
-I write code because I can.
+I use Vue and Nuxt (no React, no Angular).
 
-<!---
-rawb1t/rawb1t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am binary.
